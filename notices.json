@@ -1,0 +1,30 @@
+{
+  "_comment": "英語マスターのお知らせ。ここを編集して git push すると、アプリを更新しなくても数分で全端末に反映されます。",
+  "notices": [
+    {
+      "id": 1,
+      "date": "2026/11/6",
+      "title": "設定が新しくなりました",
+      "body": "問題や解説の画面の報告から、誤りを開発者へ送れるようになりました。ご意見や不具合は、設定から送れます。",
+      "heroIcon": "sparkles",
+      "bullets": [
+        {
+          "icon": "bell.fill",
+          "text": "お知らせ"
+        },
+        {
+          "icon": "envelope.fill",
+          "text": "ご意見・不具合を送る"
+        },
+        {
+          "icon": "square.grid.2x2",
+          "text": "i want のアプリ"
+        },
+        {
+          "icon": "flag.fill",
+          "text": "問題や解説の画面から誤りを報告"
+        }
+      ]
+    }
+  ]
+}
